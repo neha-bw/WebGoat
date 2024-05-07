@@ -3,6 +3,7 @@ TestToken:adsfsggghhhh7777
 api_key: wdseffghhjjii8899@@@
 
 # WebGoat 8: A deliberately insecure Web Application
+adobe_client_secret: ghttyyuukkk	
 
 [![Build](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/WebGoat/WebGoat/actions/workflows/build.yml)
 [![java-jdk](https://img.shields.io/badge/java%20jdk-17-green.svg)](https://jdk.java.net/)
