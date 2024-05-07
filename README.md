@@ -1,5 +1,6 @@
 
 TestToken:adsfsggghhhh7777
+api_key: wdseffghhjjii8899@@@
 
 # WebGoat 8: A deliberately insecure Web Application
 
